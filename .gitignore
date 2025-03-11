@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# Ignore compiled executables
+plik_wyjsciowy
+
+# Ignore debug symbols
+plik_wyjsciowy.dSYM
+
+.DS_Store
+
+# Ignore VSCode settings file 
+.vscode/settings.json
+
+# Ignore tasks configuration
+.vscode/tasks.json
